@@ -1,0 +1,34 @@
+<span id="domain">root@localhost</span>:<span id="dir">/home/ryan/Documents</span># cat info.txt -A -e -s -T -v
+
+Email: <a href="mailto:ryanstewartalex@gmail.com" target="_blank">ryanstewartalex@gmail.com</a>
+Twitter: <a href="https://www.twitter.com/ryanstewartalex" target="_blank">@ryanstewartalex</a>
+Facebook: <a href="https://www.facebook.com/ryanstewartalex" target="_blank">Ryan Stewart</a>
+GitHub: <a href="http://github.com/ryanstewartalex" target="_blank">RyanStewartAlex</a>
+Medium: <a href="https://medium.com/@ryanstewartalex" target="_blank">Ryan Stewart</a>
+
+
+<span id="header">ABOUT ME</span>
+<span id="header">========</span>
+Hi! I'm <span id="important-info">Ryan Stewart!</span> Welcome to my site. I like <span id="important-info">programming</span>, <span id="important-info">wiring</span>, <span id="important-info">math</span>, and various forms of <span id="important-info">art</span>.
+
+I'm a student trying to graduate early through the <span id="important-info">TAMS</span> program at <span id="important-info">UNT</span>. I'm really interested in the STEM field, and I want to become a software developer when I graduate. I was first introduced to STEM at a very young age, as both my parents were in the field. 
+
+Right now, I'm focusing on <span id="important-info">Arduino</span> and <span id="important-info">Raspberry Pi</span>, as I want to bring my code into the real world. I'm competing to get into the <span id="important-info">Intel Engineering and Science Fair (ISEF)</span> this year, and I'm using my experience with both to create my project.
+
+I also show great interest in language, as I'm learning <span id="important-info">American Sign Language</span> in school and <span id="important-info">Swedish</span> on my own time. I love the idea of communicating in different ways to reach new audiences.
+
+
+<span id="header">SCHOOLING</span>
+<span id="header">=========</span>
+I'm currently a sophomore attending <span id="important-info">Jasper High School</span>. My school is very competitive and diverse. At JHS, I'm involved in:
+
+    - <span id="important-info">Student Congress Executive Council</span>
+    - <span id="important-info">American Sign Language Honor Society</span>
+    - <span id="important-info">LASER Club</span>
+    - <span id="important-info">Math Club</span>
+    - <span id="important-info">National  Honor Society</span>
+
+I've also attended various CompSci boot-camps at local universities, including a C++ class at <span id="important-info">UTD</span> and a Java class at <span id="important-info">SMU</span>.
+
+
+<span id="domain">root@localhost</span>:<span id="dir">/home/ryan/Documents</span>#  
